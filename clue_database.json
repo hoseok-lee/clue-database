@@ -1,240 +1,318 @@
 {
     "clues_solved": "0",
-    "3":
-        {
-            "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
-            "type": "choice",
-            "options": ["6", "7", "8", "9"],
-            "answer": "3",
-            "clue_given": false,
-            "answered": false
-        },
-    "4":
-        {
-            "clue": "Another easy one: what was the name of the chocolate bar that I was eating on our first date?",
-            "type": "choice",
-            "options": ["Coffee Crisp", "Mr. Big", "Crispy Crunch", "Oh Henry"],
-            "answer": "4",
-            "clue_given": false,
-            "answered": false
-        },
-    "5":
-        {
-            "clue": "Perhaps yesterday's was too easy. From pure memory, what ride was I too scared to go on at Canada's Wonderland?",
-            "type": "choice",
-            "options": ["Yukon Striker", "Behemoth", "Leviathan", "Thunder Run"],
-            "answer": "1",
-            "clue_given": false,
-            "answered": false
-        },
-    "6":
-        {
-            "clue": "Pretty good so far! Just by listening to the song, what's the 27th word of the song we listened to together when we were high and got super sad?",
-            "type": "choice",
-            "options": ["would", "you", "want", "now"],
-            "answer": "4",
-            "clue_given": false,
-            "answered": false
-        },
-    "7":
-        {
-            "clue": "You might struggle with this one: how many cards did you give me before I left for South Korea?",
-            "type": "choice",
-            "options": ["11", "12", "13", "14"],
-            "answer": "3",
-            "clue_given": false,
-            "answered": false
-        },
-    "8":
-        {
-            "clue": "Bored yet? What does this spell: Yttrium Oxygen Uranium Argon electron mass Yttrium electron Vanadium Erbium Yttrium Thorium Indium gluon?",
-            "type": "word",
-            "answer": "youaremyeverything",
-            "clue_given": false,
-            "answered": false
-        },
-    "9":
-        {
-            "clue": "I know words of affirmations are hard for you, so I appreciate everytime you express your love to me. How many reasons did you give me on my birthday card?",
-            "type": "choice",
-            "options": ["21", "22", "23", "24"],
-            "answer": "2",
-            "clue_given": false,
-            "answered": false
-        },
-    "10":
-        {
-            "clue": "Returning to the memory games, what was my favourite movie that I've watched so far in the past decade?",
-            "type": "choice",
-            "options": ["Dark Knight", "Everything Everywhere All at Once", "Inception", "Midsommar"],
-            "answer": "2",
-            "clue_given": false,
-            "answered": false
-        },
-    "11":
-        {
-            "clue": "Thinking back to the time I said 'I love you' for the first time to you, what was the 2nd song on the playlist I made?",
-            "type": "choice",
-            "options": ["Akin Ka Na Lang", "At My Worst", "All Your Love", "Adorn"],
-            "answer": "4",
-            "clue_given": false,
-            "answered": false
-        },
-    "12":
-        {
-            "clue": "How many dance clubs have I been in so far, including ADDO Company, the one that I'm currently a part of?",
-            "type": "choice",
-            "options": ["2", "3", "4", "5"],
-            "answer": "3",
-            "clue_given": false,
-            "answered": false
-        },
-    "13":
-        {
-            "clue": "Do you remember the first text message I sent you on iMessage was? (You definitely do, this is technically an easy one)",
-            "type": "choice",
-            "options": ["who's this?", "hey bestie", "wow that took you so long", "is this my uber?"],
-            "answer": "1",
-            "clue_given": false,
-            "answered": false
-        },
-    "14":
-        {
-            "clue": "Amazing that you've gotten this far! This one will be tough: what was the word that was written on the wall of the study room in the public library near your place, that I took a picture of because I thought it looked like an album cover?",
-            "type": "word",
-            "answer": "jungleboy",
-            "clue_given": false,
-            "answered": false
-        },
-    "15":
-        {
-            "clue": "You really think you know our relationship inside out? How many plushies do I currently have at my apartment, including the small ones? If you want clarification on what counts as a plushie, then you can ask my past self.",
-            "type": "choice",
-            "options": ["9", "10", "11", "12"],
-            "answer": "4",
-            "clue_given": false,
-            "answered": false
-        },
-    "16":
-        {
-            "clue": "Yes, it's time to go deeper. What was the brand of my roommate Andrew's shoe that I accidentally dropped a condom in?",
-            "type": "choice",
-            "options": ["Oliver Cabell", "New Balance", "Mark Nason", "Rancourt & Co."],
-            "answer": "3",
-            "clue_given": false,
-            "answered": false
-        },
-    "17":
-        {
-            "clue": "Can you remember that one note I wrote a long time ago, where I listed a bunch of things I wanted to do for your birthday? Well I hacked it from the future! The password is 'Z0S52fv8'.",
-            "type": "word",
-            "answer": "bigastubigsopas",
-            "clue_given": false,
-            "answered": false
-        },
-    "18":
-        {
-            "clue": "Intermission: here's another easy one! What was the movie that we were watching when we first kissed?",
-            "type": "choice",
-            "options": ["Polaroid", "Sinister", "Unfriended", "Slender"],
-            "answer": "4",
-            "clue_given": false,
-            "answered": false
-        },
-    "19":
-        {
-            "clue": "Another easy one! What's the first alcoholic drink we technically drank together?",
-            "type": "choice",
-            "options": ["flavoured soju", "Smirnoff Ice", "Sour Puss", "Bacardi"],
-            "answer": "3",
-            "clue_given": false,
-            "answered": false
-        },
-    "20":
-        {
-            "clue": "Remember the first job that I applied and interviewed for? This is quite a tricky one, so feel free to ask my past self! Make sure to do it subtly, or he'll catch on...",
-            "type": "choice",
-            "options": ["Google", "Amazon", "Facebook", "Snapchat"],
-            "answer": "2",
-            "clue_given": false,
-            "answered": false
-        },
-    "21":
-        {
-            "clue": "I always love getting high with you, because we end up doing so much stupid stuff that I still remember when I sober up. There was one time when you got so high, that you were petrified and couldn't step over a particular object. What was it?",
-            "type": "choice",
-            "options": ["a pile of my clothes", "your suitcase", "the comfy stool in the kitchen", "nothing, you were just that high"],
-            "answer": "2",
-            "clue_given": false,
-            "answered": false
-        },
-    "22":
-        {
-            "clue": "Loving the commitment... You really want to get to your gift huh? I'll help you out with another easy question. What month and day did you take pictures of me in College Park after we went to Eaton Centre together a couple days after we first met?",
-            "type": "word",
-            "answer": "october7",
-            "clue_given": false,
-            "answered": false
-        },
-    "23":
-        {
-            "clue": "One of the best things about being in the future is that you gave up and eventually told me what embarassed you so much on the night of July 19th. What was it?",
-            "type": "choice",
-            "options": ["I gave you a Nipple-Twister-3000 and have never felt so much love for you before", "there wasn't another moment, I was actually still thinking about the fruit thing", "I would never have told you, this is a trick question", "that I thought about our future together while I watched you sleep"],
-            "answer": "3",
-            "clue_given": false,
-            "answered": false
-        },
-    "24":
-        {
-            "clue": "Very tricky question yesterday... If you want to prove to me how well you keep your calendar and records, tell me, how many days was I in South Korea between December and January during my winter break?",
-            "type": "choice",
-            "options": ["14", "19", "25", "29"],
-            "answer": "2",
-            "clue_given": false,
-            "answered": false
-        },
-    "25":
-        {
-            "clue": "Egad! You've made it this far. All the questions from now on will be turned up a notch. For these questions, you'll have to interact more with the real world in the past. For example, here's today's question: do you know my silver SanDisk USB that's on my keychain? Plug it into a laptop and solve the riddle to continue!",
-            "type": "word",
-            "answer": "november26",
-            "clue_given": false,
-            "answered": false
-        },
-    "26":
-        {
-            "clue": "Yesterday was the 25th... right? If I remember correctly, how many times did my past self text you 'bro' during the entirety of July 25th?",
-            "type": "choice",
-            "options": ["3", "4", "5", "6"],
-            "answer": "2",
-            "clue_given": false,
-            "answered": false
-        },
-    "27":
-        {
-            "clue": "Oh no! I've run out of questions... But luckily, I've managed to contact one of my friends from the past, and thus you must get this hint from Ghazal!",
-            "type": "choice",
-            "options": ["water", "soju", "coke", "milk"],
-            "answer": "2",
-            "clue_given": false,
-            "answered": false
-        },
-    "28":
-        {
-            "clue": "Unfortunately, once again, you must get this hint from So Hee! Remember that you can't ask for any help!",
-            "type": "choice",
-            "options": ["phone", "air", "vape", "feet"],
-            "answer": "4",
-            "clue_given": false,
-            "answered": false
-        },
-    "29":
-        {
-            "clue": "Here it is, the final clue! It's been a long and hard journey, but now it must come to an end. The first letters of each clue spells the final phrase! What is it?",
-            "type": "word",
-            "answer": "happybirthdayyciariloveyou",
-            "clue_given": false,
-            "answered": false
-        }
+    "3": {
+        "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
+        "type": "choice",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": "3",
+        "clue_given": false,
+        "answered": false
+    },
+    "4": {
+        "clue": "Another easy one: what was the name of the chocolate bar that I was eating on our first date?",
+        "type": "choice",
+        "options": [
+            "Coffee Crisp",
+            "Mr. Big",
+            "Crispy Crunch",
+            "Oh Henry"
+        ],
+        "answer": "4",
+        "clue_given": false,
+        "answered": false
+    },
+    "5": {
+        "clue": "Perhaps yesterday's was too easy. From pure memory, what ride was I too scared to go on at Canada's Wonderland?",
+        "type": "choice",
+        "options": [
+            "Yukon Striker",
+            "Behemoth",
+            "Leviathan",
+            "Thunder Run"
+        ],
+        "answer": "1",
+        "clue_given": false,
+        "answered": false
+    },
+    "6": {
+        "clue": "Pretty good so far! Just by listening to the song, what's the 27th word of the song we listened to together when we were high and got super sad?",
+        "type": "choice",
+        "options": [
+            "would",
+            "you",
+            "want",
+            "now"
+        ],
+        "answer": "4",
+        "clue_given": false,
+        "answered": false
+    },
+    "7": {
+        "clue": "You might struggle with this one: how many cards did you give me before I left for South Korea?",
+        "type": "choice",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "answer": "3",
+        "clue_given": false,
+        "answered": false
+    },
+    "8": {
+        "clue": "Bored yet? What does this spell: Yttrium Oxygen Uranium Argon electron mass Yttrium electron Vanadium Erbium Yttrium Thorium Indium gluon?",
+        "type": "word",
+        "answer": "youaremyeverything",
+        "clue_given": false,
+        "answered": false
+    },
+    "9": {
+        "clue": "I know words of affirmations are hard for you, so I appreciate everytime you express your love to me. How many reasons did you give me on my birthday card?",
+        "type": "choice",
+        "options": [
+            "21",
+            "22",
+            "23",
+            "24"
+        ],
+        "answer": "2",
+        "clue_given": false,
+        "answered": false
+    },
+    "10": {
+        "clue": "Returning to the memory games, what was my favourite movie that I've watched so far in the past decade?",
+        "type": "choice",
+        "options": [
+            "Dark Knight",
+            "Everything Everywhere All at Once",
+            "Inception",
+            "Midsommar"
+        ],
+        "answer": "2",
+        "clue_given": false,
+        "answered": false
+    },
+    "11": {
+        "clue": "Thinking back to the time I said 'I love you' for the first time to you, what was the 2nd song on the playlist I made?",
+        "type": "choice",
+        "options": [
+            "Akin Ka Na Lang",
+            "At My Worst",
+            "All Your Love",
+            "Adorn"
+        ],
+        "answer": "4",
+        "clue_given": false,
+        "answered": false
+    },
+    "12": {
+        "clue": "How many dance clubs have I been in so far, including ADDO Company, the one that I'm currently a part of?",
+        "type": "choice",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3",
+        "clue_given": false,
+        "answered": false
+    },
+    "13": {
+        "clue": "Do you remember the first text message I sent you on iMessage was? (You definitely do, this is technically an easy one)",
+        "type": "choice",
+        "options": [
+            "who's this?",
+            "hey bestie",
+            "wow that took you so long",
+            "is this my uber?"
+        ],
+        "answer": "1",
+        "clue_given": false,
+        "answered": false
+    },
+    "14": {
+        "clue": "Amazing that you've gotten this far! This one will be tough: what was the word that was written on the wall of the study room in the public library near your place, that I took a picture of because I thought it looked like an album cover?",
+        "type": "word",
+        "answer": "jungleboy",
+        "clue_given": false,
+        "answered": false
+    },
+    "15": {
+        "clue": "You really think you know our relationship inside out? How many plushies do I currently have at my apartment, including the small ones? If you want clarification on what counts as a plushie, then you can ask my past self.",
+        "type": "choice",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": "4",
+        "clue_given": false,
+        "answered": false
+    },
+    "16": {
+        "clue": "Yes, it's time to go deeper. What was the brand of my roommate Andrew's shoe that I accidentally dropped a condom in?",
+        "type": "choice",
+        "options": [
+            "Oliver Cabell",
+            "New Balance",
+            "Mark Nason",
+            "Rancourt & Co."
+        ],
+        "answer": "3",
+        "clue_given": false,
+        "answered": false
+    },
+    "17": {
+        "clue": "Can you remember that one note I wrote a long time ago, where I listed a bunch of things I wanted to do for your birthday? Well I hacked it from the future! The password is 'Z0S52fv8'.",
+        "type": "word",
+        "answer": "bigastubigsopas",
+        "clue_given": false,
+        "answered": false
+    },
+    "18": {
+        "clue": "Intermission: here's another easy one! What was the movie that we were watching when we first kissed?",
+        "type": "choice",
+        "options": [
+            "Polaroid",
+            "Sinister",
+            "Unfriended",
+            "Slender"
+        ],
+        "answer": "4",
+        "clue_given": false,
+        "answered": false
+    },
+    "19": {
+        "clue": "Another easy one! What's the first alcoholic drink we technically drank together?",
+        "type": "choice",
+        "options": [
+            "flavoured soju",
+            "Smirnoff Ice",
+            "Sour Puss",
+            "Bacardi"
+        ],
+        "answer": "3",
+        "clue_given": false,
+        "answered": false
+    },
+    "20": {
+        "clue": "Remember the first job that I applied and interviewed for? This is quite a tricky one, so feel free to ask my past self! Make sure to do it subtly, or he'll catch on...",
+        "type": "choice",
+        "options": [
+            "Google",
+            "Amazon",
+            "Facebook",
+            "Snapchat"
+        ],
+        "answer": "2",
+        "clue_given": false,
+        "answered": false
+    },
+    "21": {
+        "clue": "I always love getting high with you, because we end up doing so much stupid stuff that I still remember when I sober up. There was one time when you got so high, that you were petrified and couldn't step over a particular object. What was it?",
+        "type": "choice",
+        "options": [
+            "a pile of my clothes",
+            "your suitcase",
+            "the comfy stool in the kitchen",
+            "nothing, you were just that high"
+        ],
+        "answer": "2",
+        "clue_given": false,
+        "answered": false
+    },
+    "22": {
+        "clue": "Loving the commitment... You really want to get to your gift huh? I'll help you out with another easy question. What month and day did you take pictures of me in College Park after we went to Eaton Centre together a couple days after we first met?",
+        "type": "word",
+        "answer": "october7",
+        "clue_given": false,
+        "answered": false
+    },
+    "23": {
+        "clue": "One of the best things about being in the future is that you gave up and eventually told me what embarassed you so much on the night of July 19th. What was it?",
+        "type": "choice",
+        "options": [
+            "I gave you a Nipple-Twister-3000 and have never felt so much love for you before",
+            "there wasn't another moment, I was actually still thinking about the fruit thing",
+            "I would never have told you, this is a trick question",
+            "that I thought about our future together while I watched you sleep"
+        ],
+        "answer": "3",
+        "clue_given": false,
+        "answered": false
+    },
+    "24": {
+        "clue": "Very tricky question yesterday... If you want to prove to me how well you keep your calendar and records, tell me, how many days was I in South Korea between December and January during my winter break?",
+        "type": "choice",
+        "options": [
+            "14",
+            "19",
+            "25",
+            "29"
+        ],
+        "answer": "2",
+        "clue_given": false,
+        "answered": false
+    },
+    "25": {
+        "clue": "Egad! You've made it this far. All the questions from now on will be turned up a notch. For these questions, you'll have to interact more with the real world in the past. For example, here's today's question: do you know my silver SanDisk USB that's on my keychain? Plug it into a laptop and solve the riddle to continue!",
+        "type": "word",
+        "answer": "november26",
+        "clue_given": false,
+        "answered": false
+    },
+    "26": {
+        "clue": "Yesterday was the 25th... right? If I remember correctly, how many times did my past self text you 'bro' during the entirety of July 25th?",
+        "type": "choice",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "2",
+        "clue_given": false,
+        "answered": false
+    },
+    "27": {
+        "clue": "Oh no! I've run out of questions... But luckily, I've managed to contact one of my friends from the past, and thus you must get this hint from Ghazal!",
+        "type": "choice",
+        "options": [
+            "water",
+            "soju",
+            "coke",
+            "milk"
+        ],
+        "answer": "2",
+        "clue_given": false,
+        "answered": false
+    },
+    "28": {
+        "clue": "Unfortunately, once again, you must get this hint from So Hee! Remember that you can't ask for any help!",
+        "type": "choice",
+        "options": [
+            "phone",
+            "air",
+            "vape",
+            "feet"
+        ],
+        "answer": "4",
+        "clue_given": false,
+        "answered": false
+    },
+    "29": {
+        "clue": "Here it is, the final clue! It's been a long and hard journey, but now it must come to an end. The first letters of each clue spells the final phrase! What is it?",
+        "type": "word",
+        "answer": "happybirthdayyciariloveyou",
+        "clue_given": false,
+        "answered": false
+    }
 }
