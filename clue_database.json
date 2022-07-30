@@ -1,5 +1,5 @@
 {
-    "clues_solved": "11",
+    "clues_solved": "12",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -141,8 +141,8 @@
         "clue": "Amazing that you've gotten this far! This one will be tough: what was the word that was written on the wall of the study room in the public library near your place, that I took a picture of because I thought it looked like an album cover?",
         "type": "word",
         "answer": "jungleboy",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "15": {
         "clue": "You really think you know our relationship inside out? How many plushies do I currently have at my apartment, including the small ones? If you want clarification on what counts as a plushie, then you can ask my past self.",
