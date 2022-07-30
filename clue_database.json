@@ -1,5 +1,5 @@
 {
-    "clues_solved": "8",
+    "clues_solved": "9",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -108,8 +108,8 @@
             "Adorn"
         ],
         "answer": "4",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "12": {
         "clue": "How many dance clubs have I been in so far, including ADDO Company, the one that I'm currently a part of?",
