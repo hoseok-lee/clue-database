@@ -1,5 +1,5 @@
 {
-    "clues_solved": "17",
+    "clues_solved": "18",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -213,8 +213,8 @@
             "Snapchat"
         ],
         "answer": "2",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "21": {
         "clue": "I always love getting high with you, because we end up doing so much stupid stuff that I still remember when I sober up. There was one time when you got so high, that you were petrified and couldn't step over a particular object. What was it?",
