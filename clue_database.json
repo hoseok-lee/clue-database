@@ -1,5 +1,5 @@
 {
-    "clues_solved": "16",
+    "clues_solved": "17",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -200,8 +200,8 @@
             "Bacardi"
         ],
         "answer": "3",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "20": {
         "clue": "Remember the first job that I applied and interviewed for? This is quite a tricky one, so feel free to ask my past self! Make sure to do it subtly, or he'll catch on...",
