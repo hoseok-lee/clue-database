@@ -1,5 +1,5 @@
 {
-    "clues_solved": "2",
+    "clues_solved": "3",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -36,8 +36,8 @@
             "Thunder Run"
         ],
         "answer": "1",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "6": {
         "clue": "Pretty good so far! Just by listening to the song, what's the 27th word of the song we listened to together when we were high and got super sad?",
