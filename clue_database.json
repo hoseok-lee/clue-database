@@ -1,5 +1,5 @@
 {
-    "clues_solved": "9",
+    "clues_solved": "10",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -121,8 +121,8 @@
             "5"
         ],
         "answer": "3",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "13": {
         "clue": "Do you remember the first text message I sent you on iMessage was? (You definitely do, this is technically an easy one)",
