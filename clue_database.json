@@ -1,5 +1,5 @@
 {
-    "clues_solved": "19",
+    "clues_solved": "20",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -233,8 +233,8 @@
         "clue": "Loving the commitment... You really want to get to your gift huh? I'll help you out with another easy question. What month and day did you take pictures of me in College Park after we went to Eaton Centre together a couple days after we first met?",
         "type": "word",
         "answer": "october7",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "23": {
         "clue": "One of the best things about being in the future is that you gave up and eventually told me what embarassed you so much on the night of July 19th. What was it?",
