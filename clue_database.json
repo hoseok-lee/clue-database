@@ -1,5 +1,5 @@
 {
-    "clues_solved": "6",
+    "clues_solved": "7",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -82,8 +82,8 @@
             "24"
         ],
         "answer": "2",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "10": {
         "clue": "Returning to the memory games, what was my favourite movie that I've watched so far in the past decade?",
