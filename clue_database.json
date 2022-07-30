@@ -1,5 +1,5 @@
 {
-    "clues_solved": "7",
+    "clues_solved": "8",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -95,8 +95,8 @@
             "Midsommar"
         ],
         "answer": "2",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "11": {
         "clue": "Thinking back to the time I said 'I love you' for the first time to you, what was the 2nd song on the playlist I made?",
