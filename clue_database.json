@@ -1,5 +1,5 @@
 {
-    "clues_solved": "1",
+    "clues_solved": "2",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -23,8 +23,8 @@
             "Oh Henry"
         ],
         "answer": "4",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "5": {
         "clue": "Perhaps yesterday's was too easy. From pure memory, what ride was I too scared to go on at Canada's Wonderland?",
