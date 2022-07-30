@@ -1,5 +1,5 @@
 {
-    "clues_solved": "0",
+    "clues_solved": "1",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -10,8 +10,8 @@
             "9"
         ],
         "answer": "3",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "4": {
         "clue": "Another easy one: what was the name of the chocolate bar that I was eating on our first date?",
