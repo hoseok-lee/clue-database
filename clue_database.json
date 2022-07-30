@@ -1,5 +1,5 @@
 {
-    "clues_solved": "12",
+    "clues_solved": "13",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -154,8 +154,8 @@
             "12"
         ],
         "answer": "4",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "16": {
         "clue": "Yes, it's time to go deeper. What was the brand of my roommate Andrew's shoe that I accidentally dropped a condom in?",
