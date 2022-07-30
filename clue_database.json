@@ -1,5 +1,5 @@
 {
-    "clues_solved": "20",
+    "clues_solved": "21",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -246,8 +246,8 @@
             "that I thought about our future together while I watched you sleep"
         ],
         "answer": "3",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "24": {
         "clue": "Very tricky question yesterday... If you want to prove to me how well you keep your calendar and records, tell me, how many days was I in South Korea between December and January during my winter break?",
