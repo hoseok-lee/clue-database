@@ -1,5 +1,5 @@
 {
-    "clues_solved": "3",
+    "clues_solved": "4",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -49,8 +49,8 @@
             "now"
         ],
         "answer": "4",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "7": {
         "clue": "You might struggle with this one: how many cards did you give me before I left for South Korea?",
