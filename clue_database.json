@@ -1,5 +1,5 @@
 {
-    "clues_solved": "4",
+    "clues_solved": "5",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -62,8 +62,8 @@
             "14"
         ],
         "answer": "3",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "8": {
         "clue": "Bored yet? What does this spell: Yttrium Oxygen Uranium Argon electron mass Yttrium electron Vanadium Erbium Yttrium Thorium Indium gluon?",
