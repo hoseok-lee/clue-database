@@ -1,5 +1,5 @@
 {
-    "clues_solved": "10",
+    "clues_solved": "11",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -134,8 +134,8 @@
             "is this my uber?"
         ],
         "answer": "1",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "14": {
         "clue": "Amazing that you've gotten this far! This one will be tough: what was the word that was written on the wall of the study room in the public library near your place, that I took a picture of because I thought it looked like an album cover?",
