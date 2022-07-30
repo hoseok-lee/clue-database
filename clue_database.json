@@ -1,5 +1,5 @@
 {
-    "clues_solved": "15",
+    "clues_solved": "16",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -187,8 +187,8 @@
             "Slender"
         ],
         "answer": "4",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "19": {
         "clue": "Another easy one! What's the first alcoholic drink we technically drank together?",
