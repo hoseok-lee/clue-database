@@ -1,5 +1,5 @@
 {
-    "clues_solved": "21",
+    "clues_solved": "22",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -259,8 +259,8 @@
             "29"
         ],
         "answer": "2",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "25": {
         "clue": "Egad! You've made it this far. All the questions from now on will be turned up a notch. For these questions, you'll have to interact more with the real world in the past. For example, here's today's question: do you know my silver SanDisk USB that's on my keychain? Plug it into a laptop and solve the riddle to continue!",
