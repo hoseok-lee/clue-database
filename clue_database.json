@@ -1,5 +1,5 @@
 {
-    "clues_solved": "18",
+    "clues_solved": "19",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -226,8 +226,8 @@
             "nothing, you were just that high"
         ],
         "answer": "2",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "22": {
         "clue": "Loving the commitment... You really want to get to your gift huh? I'll help you out with another easy question. What month and day did you take pictures of me in College Park after we went to Eaton Centre together a couple days after we first met?",
