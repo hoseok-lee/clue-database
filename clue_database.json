@@ -1,5 +1,5 @@
 {
-    "clues_solved": "5",
+    "clues_solved": "6",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -69,8 +69,8 @@
         "clue": "Bored yet? What does this spell: Yttrium Oxygen Uranium Argon electron mass Yttrium electron Vanadium Erbium Yttrium Thorium Indium gluon?",
         "type": "word",
         "answer": "youaremyeverything",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "9": {
         "clue": "I know words of affirmations are hard for you, so I appreciate everytime you express your love to me. How many reasons did you give me on my birthday card?",
