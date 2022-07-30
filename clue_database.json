@@ -1,5 +1,5 @@
 {
-    "clues_solved": "14",
+    "clues_solved": "15",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -174,8 +174,8 @@
         "clue": "Can you remember that one note I wrote a long time ago, where I listed a bunch of things I wanted to do for your birthday? Well I hacked it from the future! The password is 'Z0S52fv8'.",
         "type": "word",
         "answer": "bigastubigsopas",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "18": {
         "clue": "Intermission: here's another easy one! What was the movie that we were watching when we first kissed?",
