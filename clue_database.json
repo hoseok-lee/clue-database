@@ -1,5 +1,5 @@
 {
-    "clues_solved": "24",
+    "clues_solved": "25",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -292,8 +292,8 @@
             "milk"
         ],
         "answer": "2",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "28": {
         "clue": "Unfortunately, once again, you must get this hint from So Hee! Remember that you can't ask for any help!",
