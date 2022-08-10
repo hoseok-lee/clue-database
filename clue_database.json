@@ -1,5 +1,5 @@
 {
-    "clues_solved": "26",
+    "clues_solved": "27",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -312,7 +312,7 @@
         "clue": "Here it is, the final clue! It's been a long and hard journey, but now it must come to an end. The first letters of each clue spells the final phrase! What is it?",
         "type": "word",
         "answer": "happybirthdayyciariloveyou",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     }
 }
