@@ -1,5 +1,5 @@
 {
-    "clues_solved": "25",
+    "clues_solved": "26",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -305,8 +305,8 @@
             "feet"
         ],
         "answer": "4",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "29": {
         "clue": "Here it is, the final clue! It's been a long and hard journey, but now it must come to an end. The first letters of each clue spells the final phrase! What is it?",
