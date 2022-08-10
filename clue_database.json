@@ -1,5 +1,5 @@
 {
-    "clues_solved": "23",
+    "clues_solved": "24",
     "3": {
         "clue": "Happy monthiversary bestie! Hope you're ready for an easy one: how many months have we been dating for?",
         "type": "choice",
@@ -279,8 +279,8 @@
             "6"
         ],
         "answer": "2",
-        "clue_given": false,
-        "answered": false
+        "clue_given": true,
+        "answered": true
     },
     "27": {
         "clue": "Oh no! I've run out of questions... But luckily, I've managed to contact one of my friends from the past, and thus you must get this hint from Ghazal!",
